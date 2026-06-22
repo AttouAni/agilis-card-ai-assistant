@@ -11,6 +11,12 @@ HEADERS_TO_SPLIT_ON = [
     ("###", "h3"),
 ]
 
+""" import re
+
+def strip_source_sections(text: str) -> str:
+    pattern = r'\n## Source\n.*?(?=\n#|\Z)'
+    return re.sub(pattern, '', text, flags=re.DOTALL)
+ """
 def load_files(directory: Path):
     files = sorted(directory.glob("*.md"))
     if not files:
@@ -19,6 +25,7 @@ def load_files(directory: Path):
     loaded = []
     for file_path in files:
         text = file_path.read_text(encoding="utf-8")
+        #text = strip_source_sections(text)
         loaded.append((file_path.name, text))
     return loaded
 

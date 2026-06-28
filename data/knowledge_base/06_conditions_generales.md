@@ -11,10 +11,11 @@ Les produits réglables par carte AGILIS sont tous les produits commercialisés 
 ## Article 2 : Responsabilités et obligations du client
 
 Tout utilisateur de la carte AGILIS est tenu de respecter les points suivants :
+
 - Prendre toutes les précautions nécessaires pour sauvegarder et assurer la confidentialité des codes d'accès attribués.
 - Informer toute personne utilisant la carte des risques et procédures à respecter lors de l'achat de produits sur le réseau.
 - La SNDP/Agil Energy se dégage de toute responsabilité en cas d'utilisation frauduleuse de la carte par des tiers, **avant** que l'opposition n'ait été signalée — la date de l'opposition faisant foi.
-- En cas de mise en opposition de la carte, le remplacement entraîne des **frais de remplacement de 10 DT hors taxe**, facturés lors de la livraison de la nouvelle carte.
+- En cas de mise en opposition de la carte, le remplacement entraîne des **frais de remplacement de 25 DT hors taxe**, facturés lors de la livraison de la nouvelle carte.
 - La SNDP ne peut garantir la disponibilité des produits sur un site donné et ne peut être tenue responsable en cas d'indisponibilité d'un ou plusieurs produits.
 
 ## Article 3 : Modes d'utilisation des cartes AGILIS
@@ -71,18 +72,19 @@ En cas de litige relatif à l'interprétation ou à l'exécution du contrat, seu
 
 ## Récapitulatif des délais et montants clés du contrat
 
-| Élément | Valeur |
-|---|---|
-| Frais de remplacement de carte (opposition) | 10 DT hors taxe |
-| Délai pour réclamation écrite | 48 heures |
-| Blocage carte après erreurs de code PIN | 3 essais erronés consécutifs |
+| Élément                                                              | Valeur                                                              |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Frais de remplacement de carte (opposition)                          | 25 DT hors taxe                                                     |
+| Délai pour réclamation écrite                                        | 48 heures                                                           |
+| Blocage carte après erreurs de code PIN                              | 3 essais erronés consécutifs                                        |
 | Responsabilité du client après vol/perte (sans opposition immédiate) | jusqu'à la fin du 2e jour après réception de la notification écrite |
-| Préavis d'information avant expiration de carte | 1 mois avant échéance |
-| Délai pour demander le renouvellement | 15 jours avant expiration |
-| Délai pour réclamer un solde créditeur après résiliation | 2 mois après la résiliation |
-| Délai de recouvrement avant action en justice (solde débiteur) | 7 jours |
-| Préavis de résiliation du contrat | 3 mois à l'avance |
-| Tribunal compétent en cas de litige | Tribunaux de Tunis |
+| Préavis d'information avant expiration de carte                      | 1 mois avant échéance                                               |
+| Délai pour demander le renouvellement                                | 15 jours avant expiration                                           |
+| Délai pour réclamer un solde créditeur après résiliation             | 2 mois après la résiliation                                         |
+| Délai de recouvrement avant action en justice (solde débiteur)       | 7 jours                                                             |
+| Préavis de résiliation du contrat                                    | 3 mois à l'avance                                                   |
+| Tribunal compétent en cas de litige                                  | Tribunaux de Tunis                                                  |
 
 ## Source
+
 Document "Demande d'adhésion Carte Pétrolière Privative AGIL" — Conditions Générales d'Adhésion (contrat fourni, pages 3 à 5).

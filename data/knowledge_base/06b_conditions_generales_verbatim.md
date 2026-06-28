@@ -21,7 +21,7 @@ Tout utilisateur de la carte « AGILIS » est tenu de se conformer aux indicatio
 - Le client devra prendre toutes les précautions utiles et nécessaires pour sauvegarder et assurer la confidentialité des codes d'accès qui lui seront attribués,
 - Le client est responsable d'informer les personnes utilisant la carte, des risques et procédures à respecter lors de l'achat du produit sur le réseau,
 - La SNDP AGIL se dégage de toute responsabilité quant à l'utilisation frauduleuse de la carte par des tiers avant d'en avoir signalé l'opposition, la date de cette dernière faisant foi,
-- En cas de mise en opposition de la carte, son remplacement entraine 10 DT hors taxe de frais de remplacement, ces frais seront facturés lors de la livraison de la nouvelle carte
+- En cas de mise en opposition de la carte, son remplacement entraine 25 DT hors taxe de frais de remplacement, ces frais seront facturés lors de la livraison de la nouvelle carte
 - La SNDP ne peut garantir au client la disponibilité des produits sur un site en particulier et ne pourrait être tenue responsable en cas d'indisponibilité d'un ou plusieurs produits.
 
 ### Article 3 : Modes d'utilisation des cartes AGILIS
